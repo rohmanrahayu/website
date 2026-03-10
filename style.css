@@ -14,7 +14,7 @@ body {
 
 /* Header */
 header { 
-    color: black;
+    color: purple;
     padding: 1.5rem 2rem;
     position: relative;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);  
@@ -872,6 +872,7 @@ p {
 .share-buttons i {
     margin-right: 5px; 
 }
+
 
 
 
